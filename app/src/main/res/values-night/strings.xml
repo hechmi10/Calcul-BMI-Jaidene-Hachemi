@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="check_my_bmi">Check my BMI</string>
+    <string name="enter_height_m">enter height(m)</string>
+    <string name="enter_weight_kg">enter weight(kg)</string>
+</resources>
